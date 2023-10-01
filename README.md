@@ -4,7 +4,7 @@
 
 **`Self taught`** **`Linux enthusiast`**
 
-- 🌱 I’m currently learning about **C++**
+- 🐱‍💻 I’m currently learning about **C++**
 
 - 📫 How to reach me: **andercabrerac@gmail.com**
 
