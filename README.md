@@ -1,4 +1,8 @@
-# 🌌 Ander Cabrera
+<h1 align="center">🌌 Ander Cabrera</h1>
+<h3 align="center">software developer doing different things related to computer science
+</h3>
+
+**`Self taught`**
 
 <!--
 **AnderCabrera/AnderCabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
