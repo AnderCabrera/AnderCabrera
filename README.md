@@ -2,7 +2,11 @@
 <h3 align="center">software developer doing different things related to computer science
 </h3>
 
-**`Self taught`**
+**`Self taught`** **`Linux enthusiast`**
+
+- 🌱 I’m currently learning about **C++**
+
+- 📫 How to reach me: **andercabrerac@gmail.com**
 
 <!--
 **AnderCabrera/AnderCabrera** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
