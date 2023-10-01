@@ -7,8 +7,16 @@
 </p>
 
 
-**`Self taught`** **`Linux enthusiast`**
+# 
+
 
 - 🐱‍💻 I’m currently learning about **C++**
 
 - 📫 How to reach me: **andercabrerac@gmail.com**
+
+
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="32p" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/javascript.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/dotenv.svg" />
