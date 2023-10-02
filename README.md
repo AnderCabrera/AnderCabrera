@@ -16,8 +16,8 @@
 
 ### 🧰 Languages and Tools
 
-<div align="center" style="mrgin-bottom: 10em">
-  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="Typescript" />
+<div align="center">
+  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" style="margin: 5em" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="Typescript" />
 
   <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript" />
 
