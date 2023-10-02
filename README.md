@@ -17,9 +17,14 @@
 ### 🧰 Languages and Tools
 
 <div align="center">
-  <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" height=50 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="Typescript" />
 
-  <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript" />
+  <p>
+    <img align="left" alt="TypeScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-plain.svg" title="Typescript" />
+  </p>
+
+  <p>
+    <img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" title="Javascript" />
+  </p>
 
   <img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" />
 
@@ -49,13 +54,13 @@
 
   <img align="left" alt="Docker" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker/" title="Docker" />
   
-  <img align="left" alt="HTML" width="30px" height=50 style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML" />
+  <img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML" />
   
-  <img align="left" alt="CSS" width="30px" height=50 style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS" />
+  <img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS" />
   
-  <img align="left" alt="Bootstrap" width="30px" height=50 style="padding-right:10px;" src="https://cdn.simpleicons.org/Bootstrap/" title="Bootstrap" />
+  <img align="left" alt="Bootstrap" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/Bootstrap/" title="Bootstrap" />
 
-  <img align="left" alt="Dotenv" width="30px" height=50 style="padding-right:10px;" src="https://cdn.simpleicons.org/dotenv/" title="Dotenv" />
+  <img align="left" alt="Dotenv" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/dotenv/" title="Dotenv" />
 
-  <img align="left" alt="Vim" width="30px" height=50 style="padding-right:10px;" src="https://cdn.simpleicons.org/vim/" title="Vim" />
+  <img align="left" alt="Vim" width="30px" style="padding-right:10px;" src="https://cdn.simpleicons.org/vim/" title="Vim" />
 </div>
