@@ -8,7 +8,7 @@
 
 ---
 
-- 🐱‍💻 I’m currently learning about **C++**
+- 🐱‍💻 I’m currently learning about **C and DSA**
 
 - 📫 How to reach me: **andercabrerac@gmail.com**
 
@@ -32,9 +32,9 @@
 
   <img align="left" alt="Spring" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" title="Spring" />
 
-  <img align="left" alt="Mysql" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql/" title="Mysql" />
+  <img align="left" alt="Mysql" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql" title="Mysql" />
 
-  <img align="left" alt="Php" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/php/" title="php" />
+  <img align="left" alt="Php" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/php" title="php" />
 
   <img align="left" alt="Python" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" />
 
@@ -46,7 +46,7 @@
 
   <img align="left" alt="Bash" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/gnubash/white" title="Bash" />
 
-  <img align="left" alt="C++" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/cplusplus/" title="C++" />
+  <img align="left" alt="C++" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/c/" title="C" />
 
   <img align="left" alt="Docker" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker/" title="Docker" />
 
@@ -56,7 +56,7 @@
 
   <img align="left" alt="Bootstrap" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/Bootstrap/" title="Bootstrap" />
 
-  <img align="left" alt="Dotenv" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/dotenv/" title="Dotenv" />
+  <img align="left" alt="Dotenv" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/dotenv" title="Dotenv" />
 
-  <img align="left" alt="Vim" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/vim/" title="Vim" />
+  <img align="left" alt="Vim" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/neovim" title="Neovim" />
 </div>
