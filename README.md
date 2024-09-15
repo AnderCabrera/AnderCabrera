@@ -46,7 +46,7 @@
 
   <img align="left" alt="Bash" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/gnubash/white" title="Bash" />
 
-  <img align="left" alt="C++" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/c/" title="C" />
+  <img align="left" alt="C" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/c" title="C" />
 
   <img align="left" alt="Docker" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker/" title="Docker" />
 
