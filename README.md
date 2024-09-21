@@ -48,13 +48,13 @@
 
   <img align="left" alt="C" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/c" title="C" />
 
-  <img align="left" alt="Docker" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker/" title="Docker" />
+  <img align="left" alt="Docker" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/docker" title="Docker" />
 
   <img align="left" alt="HTML" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" title="HTML" />
 
   <img align="left" alt="CSS" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" title="CSS" />
 
-  <img align="left" alt="Bootstrap" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/Bootstrap/" title="Bootstrap" />
+  <img align="left" alt="Bootstrap" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/Bootstrap" title="Bootstrap" />
 
   <img align="left" alt="Dotenv" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/dotenv" title="Dotenv" />
 
