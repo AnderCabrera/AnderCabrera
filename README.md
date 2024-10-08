@@ -34,7 +34,7 @@
 
   <img align="left" alt="Mysql" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/mysql" title="Mysql" />
 
-  <img align="left" alt="Php" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/php" title="php" />
+  <!--<img align="left" alt="Php" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.simpleicons.org/php" title="php" />-->
 
   <img align="left" alt="Python" width="30px" height="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" title="Python" />
 
